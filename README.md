@@ -1,6 +1,6 @@
 # t2tile-website
 
-> My priceless Nuxt.js project
+> T2 Tile Website - t2tile.com / t2tile.org
 
 ## Build Setup
 
