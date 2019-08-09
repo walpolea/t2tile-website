@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <main>
     <nuxt />
-  </div>
+  </main>
 </template>
 
 <style>
@@ -50,5 +50,9 @@ body {
 .button--blue:hover {
   color: #fff;
   background-color: #3bdaff;
+}
+
+main {
+  padding: 10px;
 }
 </style>

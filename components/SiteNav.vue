@@ -39,4 +39,16 @@ ul {
     display: inline-block;
   }
 }
+
+@media screen and (max-width: 500px) {
+  ul {
+    display: flex;
+    flex-direction: column;
+  }
+  li {
+    a {
+      width: 100%;
+    }
+  }
+}
 </style>
