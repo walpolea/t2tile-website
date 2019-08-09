@@ -5,5 +5,6 @@
 <style lang="scss" scoped>
 img {
   max-width: 400px;
+  width: 100%;
 }
 </style>

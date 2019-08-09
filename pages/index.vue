@@ -9,6 +9,8 @@
         Working for bigger and safer computing using living systems principles.
       </h2>
       <div class="links">
+        <a href="/overview" class="button--blue">Overview</a>
+        <a href="/people" class="button--blue">People</a>
         <a
           href="https://www.youtube.com/channel/UC1M91QuLZfCzHjBMEKvIc-A"
           target="_blank"
