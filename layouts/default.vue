@@ -5,9 +5,17 @@
 </template>
 
 <style>
+@import url("https://rsms.me/inter/inter.css");
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Inter", sans-serif;
+}
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: "Inter var", sans-serif;
+  }
+}
+
+html {
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -24,32 +32,21 @@ html {
   margin: 0;
 }
 
-.button--green {
+body {
+  background-color: #f3f4e4;
+}
+
+.button--blue {
   display: inline-block;
   border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
+  border: 1px solid #3bdaff;
+  color: #3bdaff;
   text-decoration: none;
   padding: 10px 30px;
 }
 
-.button--green:hover {
+.button--blue:hover {
   color: #fff;
-  background-color: #3b8070;
-}
-
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
+  background-color: #3bdaff;
 }
 </style>
