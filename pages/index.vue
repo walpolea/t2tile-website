@@ -8,34 +8,19 @@
       <h2 class="subtitle">
         Working for bigger and safer computing using living systems principles.
       </h2>
-      <div class="links">
-        <a href="/overview" class="button--blue">Overview</a>
-        <a href="/people" class="button--blue">People</a>
-        <a
-          href="https://www.youtube.com/channel/UC1M91QuLZfCzHjBMEKvIc-A"
-          target="_blank"
-          class="button--blue"
-        >
-          T2sday Updates
-        </a>
-        <a
-          href="https://github.com/DaveAckley/T2-12"
-          target="_blank"
-          class="button--blue"
-        >
-          GitHub
-        </a>
-      </div>
+      <SiteNav />
     </div>
   </div>
 </template>
 
 <script>
 import Logo from "~/components/Logo.vue";
+import SiteNav from "~/components/SiteNav.vue";
 
 export default {
   components: {
-    Logo
+    Logo,
+    SiteNav
   }
 };
 </script>
