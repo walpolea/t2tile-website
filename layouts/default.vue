@@ -40,9 +40,11 @@ body {
   display: inline-block;
   border-radius: 4px;
   border: 1px solid #3bdaff;
+  background-color: #f9f9f2;
   color: #3bdaff;
   text-decoration: none;
   padding: 10px 30px;
+  margin: 4px;
 }
 
 .button--blue:hover {

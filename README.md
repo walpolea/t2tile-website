@@ -2,6 +2,12 @@
 
 > T2 Tile Website - t2tile.com / t2tile.org
 
+# prerequisites
+
+> node.js
+> npm
+> a code editor (https://github.com/microsoft/vscode)
+
 ## Build Setup
 
 ``` bash
@@ -19,4 +25,4 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Built on Nuxt.js [Nuxt.js docs](https://nuxtjs.org).
