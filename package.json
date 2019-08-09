@@ -1,7 +1,7 @@
 {
   "name": "t2tile-website",
   "version": "1.0.0",
-  "description": "My priceless Nuxt.js project",
+  "description": "The T2 Tile Project Official Website",
   "author": "Andrew Walpole",
   "private": true,
   "scripts": {
