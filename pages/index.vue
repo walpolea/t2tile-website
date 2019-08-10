@@ -8,6 +8,9 @@
       <h2 class="subtitle">
         Working for bigger and safer computing using living systems principles.
       </h2>
+      <p>
+      stuff stuff abstract stuff
+      </p>
       <div class="links">
         <a href="/overview" class="button--blue">Overview</a>
         <a href="/people" class="button--blue">People</a>
