@@ -1,7 +1,11 @@
 <template>
   <section id="people">
     <h1>PEOPLE</h1>
-    <ul v-if="pageContent" class="people-list" v-html="pageContent"></ul>
+    <article
+      v-if="pageContent"
+      class="people-list"
+      v-html="pageContent"
+    ></article>
   </section>
 </template>
 
@@ -39,14 +43,14 @@ ul {
   padding: 0;
 }
 
-.people-list {
+.people-list > ul {
   margin-top: 40px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 
   gap: 1rem;
 
-  .person {
+  li {
     font-size: 0.8rem;
   }
 }
