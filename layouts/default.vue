@@ -43,8 +43,8 @@ body {
   background-color: #f9f9f2;
   color: #3bdaff;
   text-decoration: none;
-  padding: 10px 30px;
-  margin: 4px;
+  padding: 4px 10px;
+  margin: 4px 2px;
 }
 
 .button--blue:hover {
