@@ -20,6 +20,11 @@
           GitHub
         </a>
       </li>
+      <li>
+        <a href="https://gitter.im/t2tile/" target="_blank" class="button--blue"
+          >Chat Room</a
+        >
+      </li>
     </ul>
   </nav>
 </template>
