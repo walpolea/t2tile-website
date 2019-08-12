@@ -4,8 +4,10 @@
 
 # prerequisites
 
-> node.js
+> node.js 
+
 > npm
+
 > a code editor (https://github.com/microsoft/vscode)
 
 ## Build Setup
