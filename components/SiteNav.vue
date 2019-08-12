@@ -1,8 +1,8 @@
 <template>
   <nav>
     <ul>
-      <li><a href="/overview" class="button--blue">Overview</a></li>
-      <li><a href="/people" class="button--blue">People</a></li>
+      <!-- <li><a href="/overview" class="button--blue">Overview</a></li>
+      <li><a href="/people" class="button--blue">People</a></li> -->
       <li>
         <a
           href="https://www.youtube.com/channel/UC1M91QuLZfCzHjBMEKvIc-A"
