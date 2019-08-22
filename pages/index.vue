@@ -10,6 +10,16 @@
 
     <SiteNav />
     <article class="brief-overview">
+      <div class="video-container">
+        <iframe
+          width="560"
+          src="https://www.youtube.com/embed/jreRFxN6wuM"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen
+        ></iframe>
+      </div>
+
       <p>
         <strong>
           The T2 Tile project is an attempt to build the world's first
@@ -83,6 +93,26 @@ export default {
     text-align: left;
     line-height: 1.8rem;
     font-size: 1.2rem;
+  }
+
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    margin-bottom:1rem;
+    height: 0;
+    overflow: hidden;
+
+  }
+
+  .video-container iframe,
+  .video-container object,
+  .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 }
 </style>
