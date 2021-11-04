@@ -1,6 +1,6 @@
 # t2tile-website
 
-> T2 Tile Website - t2tile.com / t2tile.org
+> T2 Tile Website - t2tile.com
 
 # prerequisites
 
