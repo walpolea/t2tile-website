@@ -25,6 +25,11 @@
           >Chat Room</a
         >
       </li>
+      <li>
+        <a href="https://livingcomputation.org/" target="_blank" class="button--blue"
+          >Living Computation</a
+        >
+      </li>
     </ul>
   </nav>
 </template>
