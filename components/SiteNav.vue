@@ -21,8 +21,8 @@
         </a>
       </li>
       <li>
-        <a href="https://gitter.im/t2tile/" target="_blank" class="button--blue"
-          >Chat Room</a
+        <a href="https://discord.com/channels/914987915564691476/914990837702733824" target="_blank" class="button--blue"
+          >Discord Server</a
         >
       </li>
       <li>
