@@ -21,12 +21,18 @@
         </a>
       </li>
       <li>
-        <a href="https://discord.com/channels/914987915564691476/914990837702733824" target="_blank" class="button--blue"
+        <a
+          href="https://discord.gg/rBV6Y6sWNY"
+          target="_blank"
+          class="button--blue"
           >Discord Server</a
         >
       </li>
       <li>
-        <a href="https://livingcomputation.org/" target="_blank" class="button--blue"
+        <a
+          href="https://livingcomputation.org/"
+          target="_blank"
+          class="button--blue"
           >Living Computation</a
         >
       </li>
